@@ -55,7 +55,7 @@ I’m currently exploring modern agentic AI frameworks such as LangChain, LangGr
 
 | Project | Description | Tech Stack | Highlights |
 |-------|------------|-----------|-----------|
-| **PakIndustry-4.0** | Integrated AI system for manufacturing — computer vision for defects, predictive maintenance, and demand forecasting. | PyTorch • LightGBM • FastAPI | 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge deployment |
+| **PakIndustry-4.0 URAAN AI TECHATHON PROJECT** | Integrated AI system for manufacturing — computer vision for defects, predictive maintenance, and demand forecasting. | PyTorch • LightGBM • FastAPI | 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge deployment |
 
 ---
 
