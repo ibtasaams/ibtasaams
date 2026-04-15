@@ -1,10 +1,6 @@
 # Hey there 👋
 
-I'm Ibtasaam Abbasi, an Electrical Engineering student from NUST and ML engineer passionate about building production-grade machine learning systems and optimizing models for real-world constraints.
-
-I work mainly with PyTorch and Tensor Flow focusing on building efficient, optimized, and deployable AI systems. I also have a strong foundation in data structures and an Electrical Engineering background, with hands-on experience in circuit analysis, embedded hardware, and system-level design using C and C++. Over the past year, I’ve been developing and deploying ML pipelines. I’ve found that balancing hardware constraints and signal paths closely mirrors the process of optimizing neural network architectures. At the same time, I have a strong research interest in neuromorphic computing as a pathway toward more scalable, sustainable, and energy-efficient AI systems.
-
-I’m currently exploring modern agentic AI frameworks such as LangChain, LangGraph, and emerging orchestration tools to build autonomous, multi-step intelligent systems.
+I'm Ibtasaam Abbasi
 ---
 
 ## 🔧 Tech Stack
