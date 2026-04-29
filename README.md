@@ -20,9 +20,7 @@ Currently focused on deep learning, intelligent systems, and making ML work in t
 - 🎓 &nbsp;First-year BEE student at **NUST SEECS**, Islamabad — building toward a career in ML research and engineering
 - 🧠 &nbsp;Currently writing **GradientX**, a deep learning library in C++ with full backprop support — because understanding the internals matters
 - 🏆 &nbsp;Competed in the **URAAN AI Techathon** — built an end-to-end AI platform for smart manufacturing (defect detection, predictive maintenance, demand forecasting)
-- 🌐 &nbsp;Freelanced as an ML engineer for a Canadian logistics client — demand forecasting and route optimization
-- 👨‍🏫 &nbsp;Taught Full Stack Web Development to 50+ students at Murree Development Forum
-- 📚 &nbsp;Completed **Stanford CS229 (Machine Learning)** by Andrew Ng
+  
 
 ---
 
@@ -84,26 +82,13 @@ Writing a custom N-dimensional Tensor class with CPU/GPU backend support, and im
 
 ---
 
-### Logistics & Route Optimization — Freelance Client (Canada) &nbsp;✅ Completed
-> ML-powered demand forecasting and delivery time estimation for a Canadian logistics company.
 
-Built a forecasting pipeline using Linear Regression and Random Forest to model order volumes, and estimated delivery times with Gradient Boosting and KNN, accounting for distance, fuel cost, and traffic patterns.
 
 `Python` `Scikit-Learn` `Random Forest` `Gradient Boosting` `KNN`
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Ibtasaam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibtasaams&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibtasaams&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
