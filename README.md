@@ -1,64 +1,118 @@
-# Hey there 👋
+<div align="center">
 
-I'm Ibtasaam Abbasi
----
+# Hi, I'm Ibtasaam 👋
 
-## 🔧 Tech Stack
+**Electrical Engineering @ NUST SEECS '29 &nbsp;·&nbsp; Machine Learning & Systems Engineer**
 
+I build things from the ground up — from training defect-detection models to writing neural network layers in raw C++.
+Currently focused on deep learning, intelligent systems, and making ML work in the real world.
 
-### Languages
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C%2B%2B-blue)
-![Python](https://img.shields.io/badge/Python-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtasaam-abbasi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iabbasi.bee25seecs@seecs.edu.pk)
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to%20ML%20Roles-22c55e?style=flat-square)](#)
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![React](https://img.shields.io/badge/React-cyan)
-![Next.js](https://img.shields.io/badge/Next.js-black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![FastAPI](https://img.shields.io/badge/FastAPI-green)
-
-### Machine Learning & AI
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-orange)
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-orange)
-![LightGBM](https://img.shields.io/badge/LightGBM-blue)
-![TinyML](https://img.shields.io/badge/TinyML-green)
-
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-orange)
-![Google Colab](https://img.shields.io/badge/Colab-yellow)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Git](https://img.shields.io/badge/Git-orange)
-![Linux](https://img.shields.io/badge/Linux-yellow)
-
-### Engineering & Simulation
-![AutoCAD](https://img.shields.io/badge/AutoCAD-red)
-![LTspice](https://img.shields.io/badge/LTspice-darkblue)
-![PSpice](https://img.shields.io/badge/PSpice-blue)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange)
-
-
-
-
-## 📂 Projects Portfolio
-
-| Project | Description | Tech Stack | Highlights |
-|-------|------------|-----------|-----------|
-| **PakIndustry-4.0 URAAN AI TECHATHON PROJECT** | Integrated AI system for manufacturing — computer vision for defects, predictive maintenance, and demand forecasting. | PyTorch • LightGBM • FastAPI | 99.6% defect detection • Predictive RUL (MAE = 13.4) • Edge deployment |
+</div>
 
 ---
 
-## 📬 Connect With Me
+## About Me
 
-📧 **iabbasi.bee25seecs@seecs.edu.pk**  
-💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtasaam-abbasi/)
-💡 Open to ML engineering opportunities
+- 🎓 &nbsp;First-year BEE student at **NUST SEECS**, Islamabad — building toward a career in ML research and engineering
+- 🧠 &nbsp;Currently writing **GradientX**, a deep learning library in C++ with full backprop support — because understanding the internals matters
+- 🏆 &nbsp;Competed in the **URAAN AI Techathon** — built an end-to-end AI platform for smart manufacturing (defect detection, predictive maintenance, demand forecasting)
+- 🌐 &nbsp;Freelanced as an ML engineer for a Canadian logistics client — demand forecasting and route optimization
+- 👨‍🏫 &nbsp;Taught Full Stack Web Development to 50+ students at Murree Development Forum
+- 📚 &nbsp;Completed **Stanford CS229 (Machine Learning)** by Andrew Ng
 
+---
 
+## 🛠 Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Web**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+
+---
+
+## 📂 Featured Projects
+
+### [GradientX — Deep Learning Library in C++](https://github.com/ibtasaams/GradientX) &nbsp;🔨 In Progress
+> A deep learning framework built entirely from scratch in C++ — no shortcuts, no wrappers.
+
+Writing a custom N-dimensional Tensor class with CPU/GPU backend support, and implementing neural network layers (Linear, Conv2D, MaxPool2D, Multi-Head Attention, Embedding) with full forward and backward pass support for automatic backpropagation. Core ops include matmul, softmax, argmax, and cross-entropy, all with a clean debugging interface.
+
+`C++` `CUDA` `Backpropagation` `Transformers` `Systems Programming`
+
+---
+
+### [PakIndustry-4.0 — URAAN AI Techathon](https://github.com/ibtasaams/URAAN-AI) &nbsp;✅ Completed
+> End-to-end AI platform for smart manufacturing: see defects, predict failures, forecast demand.
+
+- **Computer Vision** — EfficientNet-B0 trained for casting defect detection · **99.6% accuracy**
+- **Predictive Maintenance** — LSTM/GRU sequence model estimating turbofan engine RUL · **MAE = 13.4 cycles**
+- **Demand Forecasting** — LightGBM pipeline · **sMAPE = 1.97%**
+- Packaged into a live Streamlit dashboard with FastAPI backend
+
+`PyTorch` `LightGBM` `FastAPI` `Streamlit` `LSTM` `EfficientNet`
+
+---
+
+### Logistics & Route Optimization — Freelance Client (Canada) &nbsp;✅ Completed
+> ML-powered demand forecasting and delivery time estimation for a Canadian logistics company.
+
+Built a forecasting pipeline using Linear Regression and Random Forest to model order volumes, and estimated delivery times with Gradient Boosting and KNN, accounting for distance, fuel cost, and traffic patterns.
+
+`Python` `Scikit-Learn` `Random Forest` `Gradient Boosting` `KNN`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ibtasaam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibtasaams&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibtasaams&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **ML engineering roles, research internships, and collaboration** on meaningful projects — especially anything at the intersection of deep learning and real-world systems.
+
+📧 [iabbasi.bee25seecs@seecs.edu.pk](mailto:iabbasi.bee25seecs@seecs.edu.pk) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ibtasaam-abbasi/)
+
+---
+
+<div align="center">
+<sub>Last updated April 2026</sub>
+</div>
