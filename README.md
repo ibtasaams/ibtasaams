@@ -61,7 +61,7 @@ Currently focused on deep learning, intelligent systems, and making ML work in t
 
 ## 📂 Featured Projects
 
-### [GradientX — Deep Learning Library in C++](https://github.com/ibtasaams/GradientX) &nbsp;🔨 In Progress
+### [GradientX — Deep Learning Library in C++](https://github.com/ibtasaams/GradientX-Deep-Learning-Library/) &nbsp;🔨 In Progress
 > A deep learning framework built entirely from scratch in C++ — no shortcuts, no wrappers.
 
 Writing a custom N-dimensional Tensor class with CPU/GPU backend support, and implementing neural network layers (Linear, Conv2D, MaxPool2D, Multi-Head Attention, Embedding) with full forward and backward pass support for automatic backpropagation. Core ops include matmul, softmax, argmax, and cross-entropy, all with a clean debugging interface.
