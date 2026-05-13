@@ -3,7 +3,7 @@
 # Hi, I'm Ibtasaam 👋
 
 **Electrical Engineering @ NUST SEECS '29 &nbsp;·&nbsp; Research Intern @ TUKL- DLL
-&nbsp;·&nbspMachine Learning & Systems Engineer**
+&nbsp;·Machine Learning & Systems Engineer**
 
 I build things from the ground up — from training defect-detection models to writing neural network layers in raw C++.
 Currently focused on deep learning, intelligent systems, and making ML work in the real world.
